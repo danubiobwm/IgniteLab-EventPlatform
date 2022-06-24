@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import { Event } from "./pages/Event";
+import { Event } from "./Pages/Event";
 
 export function Router() {
   return (
