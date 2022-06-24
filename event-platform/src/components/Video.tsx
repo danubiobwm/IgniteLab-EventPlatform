@@ -42,7 +42,6 @@ export function Video(props: VideoProps) {
       slug: props.lessonSlug,
     }
   })
-  console.log({data});
 
   if (!data) {
     return (
